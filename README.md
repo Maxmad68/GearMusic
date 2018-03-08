@@ -52,4 +52,4 @@ With this other example, you can remove every songs by ABBA from your Gear.
     for song in mygear.tracks:
         if song.artist == 'ABBA':
             print ('Removing "%s" '%song.title)
-            mygear.remove(song)
+            mygear.remove_track(song)
