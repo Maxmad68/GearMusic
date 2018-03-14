@@ -31,7 +31,7 @@ It has multiple attributes, which are:
 
 Otherwise, you can add songs to your device by using:
 
-    mygear.add_song('/Users/maxime/Music/Europe/The_Final_Countdown.mp3')
+    mygear.add_song('Music/Europe/The_Final_Countdown.mp3')
     
 You can obviously remove tracks with this function:
   
